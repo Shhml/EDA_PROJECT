@@ -36,4 +36,3 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the la
 - **Python**
 - **Pandas** & **NumPy** – for data manipulation
 - **Matplotlib** & **Seaborn** – for visualization
-- **Jupyter Notebook** – for analysis
